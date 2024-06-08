@@ -38,7 +38,8 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 
 ## Images
-![Discord Bot](https://github.com/kthenurseone/poocoin_trendbot/blob/main/1.png?raw=true)
+![Discord Bot](https://raw.githubusercontent.com/kthenurseone/discort_channel_copier/main/1.png)
+![Discord Bot](https://raw.githubusercontent.com/kthenurseone/discort_channel_copier/main/2.png)
 
 
 
